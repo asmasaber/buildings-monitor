@@ -4,7 +4,7 @@
   width: 100%;
   height: 100%;
   position: fixed;
-  background: #1b1a1a7d;
+  background: #f2a8a836;
 }
 
 .overlay__inner {
@@ -28,7 +28,7 @@
   display: inline-block;
   border-width: 2px;
   border-color: rgba(255, 255, 255, 0.05);
-  border-top-color: #fff;
+  border-top-color: rgb(255, 85, 51);
   animation: spin 1s infinite linear;
   border-radius: 100%;
   border-style: solid;

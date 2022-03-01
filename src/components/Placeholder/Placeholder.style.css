@@ -1,0 +1,13 @@
+.empty-placeholder {
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #8f8f8f;
+}
+
+.empty-placeholder i {
+  font-size: 48px;
+  color: rgba(255, 85, 51, 0.6);
+}
